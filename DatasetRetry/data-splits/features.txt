@@ -1,0 +1,18 @@
+1. length of screen name
+2. length of description
+3. longevity: days
+4. longevity: hours
+5. longevity: minutes
+6. longevity: seconds
+7. number of following
+8. numberof followers
+9. the ratio of the number of following and followers
+
+10. the number of posted tweets
+11. the number of posted tweets per day
+12. the average number of links in tweets
+13. the average number of unique links in tweets
+14. the average numer of username in tweets
+15. the average numer of unique username in tweets
+
+16. the change rate of number of following 
